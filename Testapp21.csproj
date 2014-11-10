@@ -61,5 +61,6 @@
   <Import Project="$(MSBuildExtensionsPath)\Novell\Novell.MonoDroid.CSharp.targets" />
   <ItemGroup>
     <Folder Include="Added\" />
+    <Folder Include="TextFolder\" />
   </ItemGroup>
 </Project>
